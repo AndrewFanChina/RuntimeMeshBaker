@@ -1,9 +1,6 @@
 # Runtime Mesh Baker v1.2.0 #
 ![](RMB_1200_630.png)
 
-|-------:|-------:|-------:|-------:|-------:|
-|[![](screen_shoots/s1.jpg)](screen_shoots/s1.jpg) | [![](screen_shoots/s2.jpg)](screen_shoots/s2.jpg)|[![](screen_shoots/s3.jpg)](screen_shoots/s3.jpg)|[![](screen_shoots/s7.jpg)](screen_shoots/s7.jpg)|[![](screen_shoots/s8.jpg)](screen_shoots/s8.jpg)|
-
 ##Introduction:([中文版本](Manual_zh.md)):
 
 Help you to combine meshes 、 materials and textures to reduce draw calls in runtime！

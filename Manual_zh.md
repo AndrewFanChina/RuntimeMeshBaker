@@ -1,9 +1,6 @@
 # Runtime Mesh Baker v1.2.0 #
 ![](RMB_1200_630.png)
 
-|-------:|-------:|-------:|-------:|-------:|
-|[![](screen_shoots/s1.jpg)](screen_shoots/s1.jpg) | [![](screen_shoots/s2.jpg)](screen_shoots/s2.jpg)|[![](screen_shoots/s3.jpg)](screen_shoots/s3.jpg)|[![](screen_shoots/s7.jpg)](screen_shoots/s7.jpg)|[![](screen_shoots/s8.jpg)](screen_shoots/s8.jpg)|
-
 ##介绍([English Version](README.md)):
 
 帮助你合并网格、材质和贴图，以减少DrawCall，提升你的Unity程序运行效率。
