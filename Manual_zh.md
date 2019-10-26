@@ -19,9 +19,8 @@
 警告:  此工具不能合并那些单个网格已经超越了64k个顶点的网格单元，因为这是Unity的网格合并上限。也就是说当你的有两个或者两个以上的网格加起来的顶点数不超越64k时，使用此工具才会获得性能优化（正常而言，对于手机游戏的网格顶点不会如此复杂，绝大部分情况下应该都存在优化空间）。
 
 
-主页地址:[http://www.lonelywalker.cn](http://www.lonelywalker.cn)<br>
-开发者Email: [mailoflonelywalker@qq.com](mailoflonelywalker@qq.com)<br>
-CSDN博客:  [http://blog.csdn.net/andrewfan](http://blog.csdn.net/andrewfan)<br>
+Home Page:[https://github.com/AndrewFanChina/RuntimeMeshBaker](https://github.com/AndrewFanChina/RuntimeMeshBaker)<br>
+Support Mail: [mailoflonelywalker@qq.com](mailoflonelywalker@qq.com)<br>
 
 ##版本历史:
 Version 1.2.0 2019.10.26

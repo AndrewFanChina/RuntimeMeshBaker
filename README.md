@@ -22,9 +22,8 @@ Warning:  this tool cannot combine meshes which vertext count are above 64k, bec
 
 
 
-Home Page:[http://www.lonelywalker.cn](http://www.lonelywalker.cn)<br>
+Home Page:[https://github.com/AndrewFanChina/RuntimeMeshBaker](https://github.com/AndrewFanChina/RuntimeMeshBaker)<br>
 Support Mail: [mailoflonelywalker@qq.com](mailoflonelywalker@qq.com)<br>
-My Blog:  [http://blog.csdn.net/andrewfan](http://blog.csdn.net/andrewfan)<br>
 
 ##Version Changes:
 
