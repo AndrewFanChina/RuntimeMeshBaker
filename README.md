@@ -1,4 +1,4 @@
-# Runtime Mesh Baker v1.2.0 #
+﻿﻿﻿﻿﻿# Runtime Mesh Baker v1.2.0 #
 ![](RMB_1200_630.png)
 
 ##Introduction:([中文版本](Manual_zh.md)):
@@ -22,9 +22,8 @@ Warning:  this tool cannot combine meshes which vertext count are above 64k, bec
 
 
 
-Home Page:[https://github.com/AndrewFanChina/RuntimeMeshBaker](https://github.com/AndrewFanChina/RuntimeMeshBaker)<br>
-Support Mail: [mailoflonelywalker@qq.com](mailoflonelywalker@qq.com)<br>
-
+Home Page:[https://github.com/AndrewFanChina/RuntimeMeshBaker](https://github.com/AndrewFanChina/RuntimeMeshBaker)
+Support Mail: [mailoflonelywalker@qq.com](mailoflonelywalker@qq.com)
 ##Version Changes:
 
 Version 1.2.0 2019.10.26
@@ -59,7 +58,7 @@ Version 1.1.1 2017.9.10
 
 1. Get your GameObjects ready for baking, just put them into one tree hierarchy, all GameObjects have the same top parent.(not include GameObjects with movement)
 
-2. Select the top parent,then select the menu "Window/Rumtime Mesh Baker/Add MeshBaker" <br>
+2. Select the top parent,then select the menu "Window/Rumtime Mesh Baker/Add MeshBaker" 
 At runtime,you can do it in you code:
 
 		gameObject.AddComponent<BAT_MeshBaker>();
@@ -83,4 +82,10 @@ At runtime,you can do it in you code:
 4. Create a new baking node and start mesh baking by groups,if group's mesh vertex count is overflow, then bake to new one mesh.
 5. Set the MeshFilters by new created mesh,and set MeshRenderers by the material of current group,the whole group share the same material.
 6. Do clearing and hiding,it would hide the original MMeshRenderers because the new multi-group showing objects are created.
+
+
+
+
+
+
 
